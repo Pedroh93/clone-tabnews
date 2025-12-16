@@ -4,12 +4,12 @@
   "description": "Um projeto para praticar",
   "main": "index.js",
   "scripts": {
-   "dev": "next dev "
+    "dev": "next dev "
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "next": "^16.0.5",
+    "next": "16.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
